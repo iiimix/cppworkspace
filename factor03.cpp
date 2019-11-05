@@ -6,7 +6,6 @@
 // #include<gmp.h>
 #include <vector>
 #include <map>
-#include <time.h>
 using namespace std;
 
 struct A;
